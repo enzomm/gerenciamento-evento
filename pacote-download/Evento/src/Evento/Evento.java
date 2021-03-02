@@ -3,7 +3,7 @@ package Evento;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Prova {
+public class Evento {
 
     public static void main(String[] args) {
         
