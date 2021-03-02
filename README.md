@@ -18,14 +18,14 @@ Será realizado um treinamento para uma empresa. Baseado em 2 etapas. As pessoas
 
 * O cadastro dos espaços de café pelo nome; 
 
-A diferença de pessoas em cada sala deverá ser de no máximo 1 pessoa. Metade das pessoas precisam trocar de sala entre as duas etapas do treinamento. 
+A diferença de pessoas em cada sala deverá ser de no máximo 1 pessoa. Metade das pessoas precisam trocar de sala entre as duas etapas do treinamento; 
 
-Ao consultar uma pessoa cadastrada no treinamento, o sistema deverá retornar à sala em que a pessoa ficará em cada etapa e o espaço onde ela realizará cada intervalo de café. 
+Ao consultar uma pessoa cadastrada no treinamento, o sistema deverá retornar à sala em que a pessoa ficará em cada etapa e o espaço onde ela realizará cada intervalo de café; 
 
 Ao consultar uma sala cadastrada ou um espaço de café, o sistema deverá retornar uma lista das pessoas que estarão naquela sala ou espaço em cada etapa do evento. 
 
- 
-&nbsp
+
+&nbsp;
 
 ## *Compilar e executar o programa:* 
 
@@ -108,7 +108,7 @@ nome, sobrenome, salaTreinamentoETP1.
 ```
 public mostrarDados(), "recebe" como parâmetros os nomes de ambas as Salas de Treinamento e Espaços de Café. "Retorna" em String, o nome completo da pessoa, e em que Sala de Treinamento e Espaço de Café permanecerá em cada etapa (etapas 1 e 2, sendo a possibilidade do valor dos mesmos, 1 e 2). 
 
-public toString(), "retorna" em String, o nome e sobrenome da pessoa, indica que é um objeto da classe Pessoa. 
+public toString(), "retorna" em String, o nome e sobrenome da pessoa. 
 ```
 
 
